@@ -1,6 +1,6 @@
 ### Hi there 👋
 
- 🔭 I’m currently a PostDoc Research at [Ommer-Group](https://ommer-lab.com/) working on scalable generative AI.
+ 🔭 I’m currently a Postdoctoral Research Fellow at [Ommer-Group](https://ommer-lab.com/) working on scalable generative AI.
 
 <!--
 **dongzhuoyao/dongzhuoyao** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
