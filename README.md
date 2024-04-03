@@ -2,6 +2,8 @@
 
  🔭 I’m currently a Postdoctoral Research Fellow at [Ommer-Lab](https://ommer-lab.com/) working on scalable generative AI.
 
+ [![Get Citation Data](https://github.com/dongzhuoyao/workflows/actions/workflows/google_scholar_crawler.yaml/badge.svg)](https://github.com/dongzhuoyao/workflows/actions/workflows/google_scholar_crawler.yaml)
+
 <!--
 **dongzhuoyao/dongzhuoyao** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
