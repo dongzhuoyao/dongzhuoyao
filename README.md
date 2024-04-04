@@ -2,7 +2,7 @@
 
  🔭 I’m currently a Postdoctoral Research Fellow at [Ommer-Lab](https://ommer-lab.com/) working on scalable generative AI.
 
-
+<img align="right" width="53%" src="https://github-readme-stats.vercel.app/api?username=dongzhuoyao&show_icons=true">
 
 <!--
 **dongzhuoyao/dongzhuoyao** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
