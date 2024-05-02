@@ -1,5 +1,4 @@
 [![Gmail Badge](https://img.shields.io/badge/-Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:taohu620@gmail.com)](mailto:taohu620@gmail.com)
-[![Scholar Badge](https://img.shields.io/badge/-Scholar-2EC866?style=flat-square&logo=Scholar&logoColor=white&link=[https://scholar.google.com/citations?user=_43YnBcAAAAJ&hl=zh-CN]([https://scholar.google.com/citations?user=EchdyZEAAAAJ&hl=en](https://scholar.google.com/citations?user=EchdyZEAAAAJ&hl=en)))](https://scholar.google.com/citations?user=_43YnBcAAAAJ&hl=zh-CN)
 ![Profile Views](https://komarev.com/ghpvc/?username=dongzhuoyao) 
 
 ### Hi there 👋
