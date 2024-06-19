@@ -26,9 +26,6 @@ Here are some ideas to get you started:
 
 
 
-![Dongzhuoyao's github stats](https://github-readme-stats.vercel.app/api?username=dongzhuoyao&show_icons=true&count_private=true&hide=prs&theme=default_repocard)
-
-
 
 <a href="https://scholar.google.com/citations?hl=en&user=EchdyZEAAAAJ" target="_blank"> <img src="https://img.shields.io/endpoint?url=https%3A%2F%2Fraw.githubusercontent.com%2Fdongzhuoyao%2Facad-homepage%2Fgoogle-scholar-stats%2Fgs_data_shieldsio.json&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a>
 
